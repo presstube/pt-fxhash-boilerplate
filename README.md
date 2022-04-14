@@ -1,22 +1,26 @@
 # PT FXHASH STARTER
 
-## Getting an fxhash project started the Presstube way, using createjs for canvas, Adobe Animate for hand-drawn/animated assets, and Vite for dev/build/preview 
+## Getting an fxhash project started the Presstube way
 
+Using [creatjs](https://createjs.com/) for canvas, [Adobe Animate](https://www.adobe.com/ca/products/animate.html) for authoring handmade assets, and [vitejs](https://vitejs.dev/) for dev/build/preview 
+
+
+### Install
 ```
 npm install
 ```
 
-### Dev time
+### Dev
 ```
 npm run dev
 ```
 
-### Build time
+### Build
 ```
 npm run build
 ```
 
-### Preview the build
+### Preview
 ```
 npm run preview
 ```
